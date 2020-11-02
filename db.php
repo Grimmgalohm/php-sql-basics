@@ -10,10 +10,10 @@
  * y la base de datos a la que estás apuntanto, de forma que solo accedas a los datos de una de ellas :D
 * */
 
-$servidor = "127.0.0.1:3306";
-$username = "root";
-$password = "@ptkv7m4qck";
-$db = "pizzas";
+$servidor = "";
+$username = "";
+$password = "";
+$db = "";
 
 /*
  * Vamos a crear una nueva variable a la que le vamos a asignar una nueva clase de mysql improved
